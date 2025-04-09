@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project to pratice HTML, It's part of the curriculum of [The Odin Project](https://www.theodinproject.com/)
