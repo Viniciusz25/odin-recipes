@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(247, 226, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-logo {
+    width: 400px;
+    height: 50px;
+    border: 2px solid rgb(243, 138, 90);
+    border-radius: 10px;
+    margin: 8px auto;
+    background-color: rgb(255, 241, 224);
+}
+
+h1 {
+    font-size: 18px;
+    text-align: center;
+    padding: 0;
+}
+
+.container-list {
+    width: 400px;
+    margin: 8px auto;
+    border: 2px solid rgb(243, 138, 90);
+    background-color: rgb(255, 241, 224);
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    font-size: 18px;
+    padding: 4px;
+}
